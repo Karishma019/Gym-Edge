@@ -10,7 +10,7 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213878710-5662b56b-fc14-43cc-b038-70c21abb2e5f.png'/>
+![image](https://github.com/Karishma019/Gym-Edge/assets/76932440/e4d27934-972b-4619-b0da-3804825c5109)
 
 </div>
 
