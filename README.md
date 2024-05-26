@@ -9,10 +9,8 @@
 <br>
 <h3 align='center'>Home Page 🏡</h3>
 
-<div align='center'>
-![image](https://github.com/Karishma019/Gym-Edge/assets/76932440/e4d27934-972b-4619-b0da-3804825c5109)
+![image](https://github.com/Karishma019/Gym-Edge/assets/76932440/f00d38b9-f4f2-41d9-a5f7-ad3b1cbc1412)
 
-</div>
 
 <br><br>
 <h3 align='center'>Classes Page 👇</h3>
